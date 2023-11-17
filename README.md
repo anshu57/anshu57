@@ -1,6 +1,6 @@
 ### Hi 👋, I am Anshu Gangwar
 
-- I am an AI/ML Enthusiast. Always learning.
+- I am an AI Enthusiast.
 - Currently working in the areas of Recommender system and building personalised user experiences at Yupptv. 
 - I look forward to collaborating with researchers and creators.
 
