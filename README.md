@@ -1,7 +1,7 @@
 ### Hi 👋, I am Anshu Gangwar
 
-- I am an AI Enthusiast.
-- Currently working in the areas of Recommender system and building personalised user experiences at Yupptv. 
+- I am an AI-ML Enthusiast.
+- Currently working in the areas of Recommendation systems and building personalized user experiences at Yupptv. 
 - I look forward to collaborating with researchers and creators.
 
 📫 Email-ID: **gangwaranshu3@gmail.com**
