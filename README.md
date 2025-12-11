@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-I'm a passionate Data Scientist currently focused on building recommendation systems and personalized user experiences at Yupptv. I'm always eager to collaborate with fellow researchers and creators on exciting projects!
+I'm a passionate Data Scientist. I'm always eager to collaborate with fellow researchers and creators on exciting projects!
 
 ### 🛠️ Skills & Tools
 
